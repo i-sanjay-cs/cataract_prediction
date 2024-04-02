@@ -3,3 +3,4 @@ flask-cors
 Keras
 numpy
 werkzeug
+tensorflow
